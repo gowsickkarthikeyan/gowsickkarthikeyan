@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Data Analyst | Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Data+Analyst;Frontend+%7C+Backend+%7C;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Data+Analyst;Frontend+%7C+Backend;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
